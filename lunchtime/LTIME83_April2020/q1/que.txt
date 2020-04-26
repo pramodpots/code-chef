@@ -1,0 +1,3 @@
+code: FFL
+Chef in Fantasy League
+https://www.codechef.com/LTIME83B/problems/FFL

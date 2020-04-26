@@ -1,0 +1,3 @@
+code: SHUFFLE
+Another Birthday Present!
+https://www.codechef.com/LTIME83B/problems/SHUFFLE
