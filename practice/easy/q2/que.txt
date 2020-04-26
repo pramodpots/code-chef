@@ -1,0 +1,4 @@
+code: FCTRL
+Factorial
+https://www.codechef.com/problems/FCTRL
+
