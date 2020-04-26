@@ -8,7 +8,7 @@
 #define deb(x) cout << x << " "
 #define debX(x) cout << #x << " " << x << "\n"
 #define debV(v) for(auto e: v) {deb(e);}; pline
-#define fa(x) cout << x << "\n" // final Ans 
+#define FA(x) cout << x << "\n" // final Ans 
 
 using namespace std;
 
@@ -29,10 +29,13 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL) ; cout.tie(NULL) ;
 
-    int t;
-    cin >> t;
-    while( t-- ) {
-        solve();
+    while(1) {
+        int x;
+        cin >> x;
+        if (x == 42) {
+            break;
+        }
+        FA(x);
     }
     return 0 ;
 }
