@@ -1,0 +1,4 @@
+code: JOHNY
+Uncle Johny
+https://www.codechef.com/problems/JOHNY
+sol: JOHNY | Uncle Johny
