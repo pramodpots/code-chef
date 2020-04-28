@@ -1,0 +1,4 @@
+code: CLEANUP
+Cleaning Up
+https://www.codechef.com/problems/CLEANUP
+sol: CLEANUP | Cleaning Up
