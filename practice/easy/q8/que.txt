@@ -1,0 +1,4 @@
+code: MARCHA1
+Paying up
+https://www.codechef.com/problems/MARCHA1
+sol: MARCHA1 | Paying up
