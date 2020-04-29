@@ -1,0 +1,4 @@
+code: CNOTE
+Chef and Notebooks
+https://www.codechef.com/problems/CNOTE
+sol: CNOTE | Chef and Notebooks
