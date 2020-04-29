@@ -1,0 +1,4 @@
+code: NUKES
+Nuclear Reactors
+https://www.codechef.com/problems/NUKES
+sol: NUKES | Nuclear Reactors
