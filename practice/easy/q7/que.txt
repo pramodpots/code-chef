@@ -1,0 +1,4 @@
+code: CONFLIP
+Coin Flip
+https://www.codechef.com/problems/CONFLIP
+sol: CONFLIP | Coin Flip
