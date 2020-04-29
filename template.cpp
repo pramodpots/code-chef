@@ -3,6 +3,7 @@
 #define mp make_pair
 #define fo(i, n) for(int i=0; i < n; i++)
 #define all(x) x.begin(), x.end()
+#define sortall(x) sort(all(x))
 
 // ------ For debugging
 #define pline cout << "\n"
@@ -17,24 +18,26 @@ typedef long long ll;
 typedef unsigned long long ull;
 typedef vector<ll> vll;
 typedef vector<int> vi;
+
+//---- function definations
 void setupConfig();
 
 void solve() {
-    
+    int i, j, k, l, m, n, o, p, q;
 }
 
 int main() {
     setupConfig();
 
-    int t;
-    cin >> t;
-    while( t-- ) {
+    int T;
+    cin >> T;
+    while( T-- ) {
         solve();
     }
     return 0 ;
 }
 
-// ---- basic setup ---
+// ---- for faster io and writing to files ---
 void setupConfig() {
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin) ;
