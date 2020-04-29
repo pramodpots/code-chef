@@ -17,18 +17,14 @@ typedef long long ll;
 typedef unsigned long long ull;
 typedef vector<ll> vll;
 typedef vector<int> vi;
+void setupConfig();
 
 void solve() {
     
 }
 
 int main() {
-    #ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin) ;
-    freopen("output.txt", "w", stdout) ;
-    #endif
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL) ; cout.tie(NULL) ;
+    setupConfig();
 
     int t;
     cin >> t;
@@ -36,4 +32,14 @@ int main() {
         solve();
     }
     return 0 ;
+}
+
+// ---- basic setup ---
+void setupConfig() {
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin) ;
+    freopen("output.txt", "w", stdout) ;
+    #endif
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL) ; cout.tie(NULL) ;
 }
