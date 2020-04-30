@@ -1,0 +1,4 @@
+code: CSUB
+Count Substrings
+https://www.codechef.com/problems/CSUB
+sol: CSUB | Count Substrings
