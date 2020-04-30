@@ -1,0 +1,4 @@
+code: STONES
+Jewels and Stones
+https://www.codechef.com/problems/STONES
+sol: STONES | Jewels and Stones
