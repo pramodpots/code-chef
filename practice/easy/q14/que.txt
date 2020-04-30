@@ -1,0 +1,4 @@
+code: MAXDIFF
+Maximum Weight Difference
+https://www.codechef.com/problems/MAXDIFF
+sol: MAXDIFF | Maximum Weight Difference
