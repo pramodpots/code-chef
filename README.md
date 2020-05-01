@@ -12,6 +12,8 @@ What ever questions I can solve I will push them here.
 
 [foo]: http://example.com/  "Optional Title Here"
 
+This is [an example](http://example.com/ "Title") inline link.
+
 GoingNative 2013 C++ Seasoning (Sean Parent) - https://www.youtube.com/watch?v=W2tWOdzgXHA (Watched only STL part)
 
 
