@@ -10,6 +10,8 @@ What ever questions I can solve I will push them here.
 ## Awesome C++ / STL talks (I have watched)
 Algorithm Intuition 2019 (Conor Hoekstra) - https://www.youtube.com/watch?v=M1lNNFwxUVI
 
+[foo]: http://example.com/  "Optional Title Here"
+
 GoingNative 2013 C++ Seasoning (Sean Parent) - https://www.youtube.com/watch?v=W2tWOdzgXHA (Watched only STL part)
 
 
