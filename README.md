@@ -8,11 +8,13 @@ What ever questions I can solve I will push them here.
 
 
 ## Awesome C++ / STL talks (I have watched)
-[Algorithm Intuition 2019 (Conor Hoekstra)]: https://www.youtube.com/watch?v=M1lNNFwxUVI
+[Algorithm Intuition 2019 Conor Hoekstra] (https://www.youtube.com/watch?v=M1lNNFwxUVI "link")
 
 [foo]: http://example.com/  "Optional Title Here"
 
 This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
 
 GoingNative 2013 C++ Seasoning (Sean Parent) - https://www.youtube.com/watch?v=W2tWOdzgXHA (Watched only STL part)
 
