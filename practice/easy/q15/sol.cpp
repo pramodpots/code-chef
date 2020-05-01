@@ -23,14 +23,13 @@ typedef vector<int> vi;
 void setupConfig();
 
 void solve() {
-    int n, s = 0, d = 0;
+    int n, s = 0;
     cin >> n;
     int a[n];
     scanArr(a, n);
     sort(a, a+n);
-    for(int i=1; i < n; i++) {
-        d += a[i] - a[i - 1];
-        s += d;
+    fo(i, n){
+        s += a[i] - a[0];
     }
     fa(s);
 }
