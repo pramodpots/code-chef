@@ -7,7 +7,14 @@ What ever questions I can solve I will push them here.
 https://www.codechef.com/problems/easy/?sort_by=SuccessfulSubmission&sorting_order=desc
 
 
-## usefull c++ / STL talks (I have watched)
-GoingNative 2013 C++ Seasoning (Sean Parent) - https://www.youtube.com/watch?v=W2tWOdzgXHA
-
+## awesome C++ / STL talks (I have watched)
 Algorith Intuition 2019 (Conor Hoekstra) - https://www.youtube.com/watch?v=M1lNNFwxUVI
+
+GoingNative 2013 C++ Seasoning (Sean Parent) - https://www.youtube.com/watch?v=W2tWOdzgXHA (Watched only STL part)
+
+
+### STL algorithms
+1. rotate
+2. stable_partition
+3. stable_sort
+4. nth_element
