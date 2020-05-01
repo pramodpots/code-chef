@@ -4,7 +4,6 @@
 #define fo(i, n) for(int i=0; i < n; i++)
 #define all(x) x.begin(), x.end()
 #define sortall(x) sort(all(x))
-#define scanArr(a, n) fo(i, n) { cin >> a[i]; }
 
 // ------ For debugging
 #define pline cout << "\n"
@@ -12,7 +11,7 @@
 #define debX(x) cout << #x << " " << x << "\n"
 #define debV(v) for(auto e: v) {deb(e);}; pline
 #define fa(x) cout << x << "\n" // final Ans 
-
+#define scanArr(a, n) fo(i, n) { cin >> a[i]; }
 using namespace std;
 
 typedef long long ll;
@@ -24,7 +23,16 @@ typedef vector<int> vi;
 void setupConfig();
 
 void solve() {
-    int a, b, c, l, m, n, p, q, r, x, y, z;
+    int n, s = 0, d = 0;
+    cin >> n;
+    int a[n];
+    scanArr(a, n);
+    sort(a, a+n);
+    for(int i=1; i < n; i++) {
+        d += a[i] - a[i - 1];
+        s += d;
+    }
+    fa(s);
 }
 
 int main() {

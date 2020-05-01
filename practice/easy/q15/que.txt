@@ -1,0 +1,4 @@
+code: SALARY
+The Minimum Number Of Moves
+https://www.codechef.com/problems/SALARY
+sol: SALARY | The Minimum Number Of Moves
