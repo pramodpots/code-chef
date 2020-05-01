@@ -3,21 +3,13 @@
 I have decided that I will start competative programing and I have choosen codechef for it. 
 What ever questions I can solve I will push them here.
 
-## [a code-chef-easy-practice-sorted-by-successful-submission]
-(https://www.codechef.com/problems/easy/?sort_by=SuccessfulSubmission&sorting_order=desc)
+## [code-chef-easy-practice-sorted-by-successful-submission](https://www.codechef.com/problems/easy/?sort_by=SuccessfulSubmission&sorting_order=desc)
 
 
 ## Awesome C++ / STL talks (I have watched)
-[Algorithm Intuition 2019 Conor Hoekstra] (https://www.youtube.com/watch?v=M1lNNFwxUVI "link")
+[Algorithm Intuition 2019 (Conor Hoekstra)](https://www.youtube.com/watch?v=M1lNNFwxUVI)
 
-[foo]: http://example.com/  "Optional Title Here"
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-GoingNative 2013 C++ Seasoning (Sean Parent) - https://www.youtube.com/watch?v=W2tWOdzgXHA (Watched only STL part)
-
+[GoingNative 2013 C++ Seasoning (Sean Parent)](https://www.youtube.com/watch?v=W2tWOdzgXHA) (Watched only STL part)
 
 ### STL algorithms
 1. rotate
