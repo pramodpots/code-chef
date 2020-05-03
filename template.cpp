@@ -24,7 +24,7 @@ typedef vector<int> vi;
 void setupConfig();
 
 void solve() {
-    int a, b, c, l, m, n, p, q, r, x, y, z;
+
 }
 
 int main() {

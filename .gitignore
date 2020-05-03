@@ -2,3 +2,4 @@
 **/*.dSYM
 **/sol
 **/.DS_Store
+**/settings.json
