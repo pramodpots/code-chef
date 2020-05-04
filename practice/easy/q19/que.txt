@@ -1,0 +1,4 @@
+code: DIVIDING
+Dividing Stamps
+https://www.codechef.com/problems/DIVIDING
+sol: DIVIDING | Dividing Stamps
