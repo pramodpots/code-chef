@@ -1,0 +1,4 @@
+code: EASYPROB
+A Very Easy Problem!
+https://www.codechef.com/problems/EASYPROB
+sol: EASYPROB | A Very Easy Problem!
