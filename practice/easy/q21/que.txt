@@ -1,0 +1,4 @@
+code: RIGHTRI
+Chef and The Right Triangles
+https://www.codechef.com/problems/RIGHTRI
+sol: RIGHTRI | Chef and The Right Triangles
